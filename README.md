@@ -213,6 +213,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Microsoft Learn](https://github.com/MicrosoftDocs/mcp)** - Search official Microsoft Learn documentation
 - **[Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server)** - Expose GraphQL APIs as MCP tools
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** - Bestax docs for Bulma v1 React components, offline
+- **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
 
 </details>
 
