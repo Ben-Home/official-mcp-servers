@@ -417,6 +417,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SendPulse](https://sendpulse.com/features/mcp)** - Official MCP server for SendPulse multichannel marketing automation platform
 - **[linglistack/linkednav-mcp](https://github.com/linglistack/linkednav-mcp)** - Run LinkedIn outreach in LinkedNav: find leads, launch campaigns, reply
 - **[Rhino Rank](https://app.rhinorank.io/mcp/setup)** - Quote, order and manage link building and press releases
+- **[Nitrosend](https://docs.nitrosend.com/mcp)** - Manage campaigns, flows, audiences and transactional email via MCP
 
 </details>
 
