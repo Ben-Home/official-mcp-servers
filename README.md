@@ -516,6 +516,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Nitrosend](https://docs.nitrosend.com/mcp)** - Manage campaigns, flows, audiences and transactional email via MCP
 - **[NotFair](https://github.com/nowork-studio/notfair-plugin)** - Hosted MCP for ad platforms, GA4, Search Console, and WordPress
 - **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
+- **[Atomic-Mail/atomic-mail-agentic](https://github.com/Atomic-Mail/atomic-mail-agentic)** - Agent-owned email inboxes over JMAP, hosted MCP server
 
 </details>
 
