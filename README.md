@@ -163,6 +163,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - Control and inspect Chrome with DevTools
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Browser automation with Playwright
 - **[Scrapfly](https://github.com/scrapfly/scrapfly-mcp)** - Web scraping and data extraction via Scrapfly
+- **[CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents)** - Screenshot any web page as image, PDF or video
 
 </details>
 
@@ -214,6 +215,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Microsoft Learn](https://github.com/MicrosoftDocs/mcp)** - Search official Microsoft Learn documentation
 - **[Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server)** - Expose GraphQL APIs as MCP tools
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** - Bestax docs for Bulma v1 React components, offline
+- **[Runx](https://runx.ai/docs/mcp)** - Discover skills remotely; execute governed skills locally with receipts
 
 </details>
 
@@ -418,6 +420,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[linglistack/linkednav-mcp](https://github.com/linglistack/linkednav-mcp)** - Run LinkedIn outreach in LinkedNav: find leads, launch campaigns, reply
 - **[Rhino Rank](https://app.rhinorank.io/mcp/setup)** - Quote, order and manage link building and press releases
 - **[NotFair](https://github.com/nowork-studio/notfair-plugin)** - Hosted MCP for ad platforms, GA4, Search Console, and WordPress
+- **[Nitrosend](https://docs.nitrosend.com/mcp)** - Manage campaigns, flows, audiences and transactional email via MCP
 
 </details>
 
