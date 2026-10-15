@@ -12,7 +12,7 @@
 **No unofficial forks, no abandoned projects, just servers you can trust.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers Count](https://img.shields.io/badge/MCP%20Servers-307-blue?style=flat-square)
+![Servers Count](https://img.shields.io/badge/MCP%20Servers-389-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/official-mcp-servers?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -32,7 +32,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 |---|---|---|---|
 | [Search](#search-and-research) | [Developer Tools](#developer-tools) | [Security](#security-and-code-quality) | [Productivity](#productivity-and-project-management) |
 | [Finance](#finance-and-payments) | [Messaging](#communication-and-messaging) | [AI and Media](#ai-media-and-data-visualization) | [Design](#design-and-collaboration) |
-| [Travel](#travel-and-lifestyle) | [Marketing](#web-marketing-and-product) | [Emerging](#emerging-and-independent) |  |
+| [Travel](#travel-and-lifestyle) | [Marketing](#web-marketing-and-product) | [HR](#hr-and-recruiting) | [Emerging](#emerging-and-independent) |
 
 <details open>
 <summary><h3 style="display:inline">Cloud and DevOps</h3></summary>
@@ -67,6 +67,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Alibaba Cloud Ops](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)** - Operate Alibaba Cloud resources like ECS and monitoring
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - Azure DevOps repos, work items and pipelines
 - **[Radar](https://github.com/skyhook-io/radar)** - Inspect, troubleshoot and operate Kubernetes clusters
+- **[Render](https://render.com/docs/mcp-server)** - Deploy and manage services, databases and environments on Render ([Claude](https://claude.com/marketplace/connectors/render))
 
 </details>
 
@@ -137,6 +138,8 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[VictoriaMetrics](https://github.com/VictoriaMetrics/mcp-victoriametrics)** - Query VictoriaMetrics instances and read its docs
 - **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - LLM observability and evaluation with Phoenix
 - **[Google Analytics](https://github.com/googleanalytics/google-analytics-mcp)** - Query Google Analytics reports and properties
+- **[Datadog](https://docs.datadoghq.com/mcp_server/)** - Query Datadog logs, metrics, traces and incidents ([Claude](https://claude.com/marketplace/connectors/datadog))
+- **[UptimeRobot](https://help.uptimerobot.com/en/articles/12928342-uptimerobot-mcp-integration-guide)** - Monitors, incidents and status pages from UptimeRobot
 
 </details>
 
@@ -176,6 +179,10 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Brave Search](https://github.com/brave/brave-search-mcp-server)** - Web, local and image search with Brave
 - **[Jina AI](https://github.com/jina-ai/MCP)** - Search, read and embed the web with Jina AI
 - **[You.com](https://github.com/youdotcom-oss/mcp)** - Web search, page contents and research with You.com
+- **[Wolfram](https://www.wolfram.com/artificial-intelligence/mcp-service/)** - Computation, math and curated knowledge from Wolfram ([Claude](https://claude.com/marketplace/connectors/wolfram))
+- **[CoCounsel](https://www.thomsonreuters.com/en-us/help/cocounsel/legal/integrations/mcp-connector/cocounsel-legal-mcp-connector)** - Legal research with Thomson Reuters CoCounsel
+- **[CourtListener](https://github.com/freelawproject/courtlistener-api-client/blob/main/MCP_README.md)** - Search US court opinions, dockets and judges ([Claude](https://claude.com/marketplace/connectors/courtlistener))
+- **[IBISWorld](https://help.ibisworld.com/en/articles/14627556-ibisworld-mcp-server-documentation)** - Industry research reports and market data from IBISWorld ([Claude](https://claude.com/marketplace/connectors/ibisworld))
 
 </details>
 
@@ -209,6 +216,15 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[MCP Reference Servers](https://github.com/modelcontextprotocol/servers)** - Official reference servers: filesystem, fetch, git, memory and more
 - **[Microsoft Learn](https://github.com/MicrosoftDocs/mcp)** - Search official Microsoft Learn documentation
 - **[Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server)** - Expose GraphQL APIs as MCP tools
+- **[Expo](https://docs.expo.dev/mcp/)** - Expo and React Native docs, builds and project tools ([Claude](https://claude.com/marketplace/connectors/expo))
+- **[v0](https://v0.app/docs/api/v2/guides/mcp-server)** - Generate and iterate on UI with Vercel's v0 ([Claude](https://claude.com/marketplace/connectors/v0))
+- **[Lovable](https://docs.lovable.dev/integrations/lovable-mcp-server)** - Build and edit Lovable projects from AI assistants ([Claude](https://claude.com/marketplace/connectors/lovable))
+- **[Sanity](https://www.sanity.io/docs/ai/mcp-server)** - Query and manage Sanity content and schemas ([Claude](https://claude.com/marketplace/connectors/sanity))
+- **[Storyblok](https://www.storyblok.com/docs/libraries/mcp-server)** - Manage Storyblok CMS content and components
+- **[GitBook](https://gitbook.com/docs/getting-started/ai-documentation/gitbook-mcp)** - Search and query GitBook documentation spaces
+- **[Algolia](https://www.algolia.com/doc/guides/model-context-protocol/productivity-mcp)** - Manage Algolia indices, search and analytics
+- **[O'Reilly](https://learning.oreilly.com/apidocs/mcp/content/)** - Search O'Reilly learning content, books and courses ([Claude](https://claude.com/marketplace/connectors/oreilly))
+- **[Base44](https://docs.base44.com/developers/backend/overview/mcp-server)** - Build and manage Base44 apps and backend data ([Claude](https://claude.com/marketplace/connectors/base44))
 
 </details>
 
@@ -223,6 +239,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Snyk](https://github.com/snyk/studio-mcp)** - Snyk security scanning inside agentic workflows
 - **[Bitwarden](https://github.com/bitwarden/mcp-server)** - Interact with Bitwarden vaults
 - **[CrowdStrike](https://github.com/CrowdStrike/falcon-mcp)** - Connect agents to CrowdStrike Falcon for security operations
+- **[Have I Been Pwned](https://haveibeenpwned.com/Docs/MCP)** - Check breached accounts and passwords with HIBP ([Claude](https://claude.com/marketplace/connectors/have-i-been-pwned))
 
 </details>
 
@@ -251,6 +268,15 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Udemy Business](https://business-support.udemy.com/hc/en-us/articles/34213384429335-How-to-Integrate-the-Udemy-Business-MCP-Server-With-Your-AI-Tool)** - Search courses and surface learning content ([Claude](https://claude.com/marketplace/connectors/udemy-business))
 - **[Craft](https://support.craft.do/en/integrate/mcp)** - Notes, docs and tasks via Craft remote MCP ([Claude](https://claude.com/marketplace/connectors/craft))
 - **[Pipedream](https://github.com/PipedreamHQ/pipedream)** - Connect thousands of apps and APIs through Pipedream
+- **[Dropbox](https://help.dropbox.com/integrations/connect-dropbox-to-claude)** - Search and manage files in Dropbox ([Claude](https://claude.com/marketplace/connectors/dropbox))
+- **[monday.com](https://developer.monday.com/apps/docs/mondaycom-mcp-integration)** - Boards, items and workflows in monday.com ([Claude](https://claude.com/marketplace/connectors/monday))
+- **[Zapier](https://docs.zapier.com/mcp/home)** - Run Zapier actions across thousands of apps ([Claude](https://claude.com/marketplace/connectors/zapier))
+- **[Evernote](https://dev.evernote.com/mcp)** - Search, create and update Evernote notes ([Claude](https://claude.com/marketplace/connectors/evernote))
+- **[Wrike](https://developers.wrike.com/wrike-mcp/)** - Wrike tasks, projects and workspaces ([Claude](https://claude.com/marketplace/connectors/wrike))
+- **[Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)** - Manage Workfront projects, tasks and requests ([Claude](https://claude.com/marketplace/connectors/adobe-workfront))
+- **[OnceHub](https://help.oncehub.com/developers/mcp-server)** - Check availability and book meetings with OnceHub
+- **[HoneyBook](https://help.honeybook.com/en/articles/16381018-set-up-the-honeybook-connector)** - Client pipeline, invoices and contracts in HoneyBook
+- **[Padlet](https://padlet.help/l/en/article/pofbiabhv1-mcp-server)** - Create and manage Padlet boards and posts
 
 </details>
 
@@ -285,6 +311,14 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Moody's](https://www.moodys.com/web/en/us/genai/model-context-protocol.html)** - Credit ratings and research via Moody's GenAI data ([Claude](https://claude.com/marketplace/connectors/moodys-analytics))
 - **[Carta](https://claude.com/marketplace/connectors/carta)** - Cap table, investor, and fund data from Carta
 - **[Alpaca](https://github.com/alpacahq/alpaca-mcp-server)** - Trade stocks, ETFs and crypto through Alpaca
+- **[CoinGecko](https://docs.coingecko.com/ai-integration/mcp-server)** - Crypto prices, market and onchain data from CoinGecko
+- **[CoinDesk](https://mcp.coindesk.com/)** - Crypto news, indices and market data from CoinDesk ([Claude](https://claude.com/marketplace/connectors/coindesk))
+- **[Mastercard](https://developer.mastercard.com/platform/documentation/agent-toolkit/)** - Mastercard developer APIs and agent toolkit
+- **[Crunchbase](https://data.crunchbase.com/docs/mcp-overview)** - Company, funding and investor data from Crunchbase
+- **[CB Insights](https://claude.com/marketplace/connectors/cb-insights)** - Market intelligence and company research from CB Insights
+- **[Dun & Bradstreet](https://www.dnb.co.uk/solutions/artificial-intelligence/connectors/dnb-mcp.html)** - Dun & Bradstreet company, risk and finance analytics data
+- **[Vanguard](https://advisors.vanguard.com/content/dam/fas/engagement/VanguardAdvisorToolsConnector.pdf)** - Vanguard advisor tools, fund and portfolio data
+- **[ICE Data Services](https://claude.com/marketplace/connectors/ice-data-services)** - ICE fixed income, reference and market data
 
 </details>
 
@@ -304,6 +338,8 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Resend](https://github.com/resend/resend-mcp)** - Official Resend MCP server for sending emails ([Claude](https://claude.com/marketplace/connectors/resend))
 - **[Elastic Email](https://github.com/ElasticEmail/elasticemail-mcp-server)** - Send emails, manage contacts, lists and campaigns
 - **[MailerSend](https://developers.mailersend.com/mcp)** - Send transactional email and SMS, manage domains
+- **[RingCentral](https://mcp.labs.ringcentral.com/docs/servers/ringex-chat/)** - RingCentral team messaging, chats and posts
+- **[OneSignal](https://documentation.onesignal.com/docs/en/model-context-protocol)** - Users, messaging and delivery stats in OneSignal ([Claude](https://claude.com/marketplace/connectors/onesignal))
 
 </details>
 
@@ -332,6 +368,12 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Vizro](https://github.com/mckinsey/vizro/tree/main/vizro-mcp)** - Build validated charts and dashboards with Vizro
 - **[Tableau](https://github.com/tableau/tableau-mcp)** - Let agents explore and query Tableau data
 - **[Docling](https://github.com/docling-project/docling-mcp)** - Document conversion and processing with Docling
+- **[Unsplash](https://claude.com/marketplace/connectors/unsplash)** - Search and use Unsplash photos
+- **[Shutterstock](https://claude.com/marketplace/connectors/shutterstock)** - Search and license Shutterstock images and assets
+- **[Descript](https://help.descript.com/hc/en-us/articles/45008080343053-Connect-Descript-to-Claude)** - Edit and manage Descript video and audio projects ([Claude](https://claude.com/marketplace/connectors/descript))
+- **[Wistia](https://docs.wistia.com/docs/mcp-server-guide)** - Manage Wistia media, episodes and webinars
+- **[DeepL](https://developers.deepl.com/docs/mcp)** - Translate text and documents with DeepL ([Claude](https://claude.com/marketplace/connectors/deepl))
+- **[Flourish](https://helpcenter.flourish.studio/hc/en-us/articles/16487012057999-Flourish-MCP-connector-an-intro)** - Build Flourish charts, maps and data stories
 
 </details>
 
@@ -353,6 +395,8 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Mermaid Chart](https://mermaid.ai/docs/ai/mcp-server)** - Validate, render and manage Mermaid diagrams ([Claude](https://claude.com/marketplace/connectors/mermaid-chart))
 - **[Icons8](https://github.com/icons8/icons8-mcp)** - Massive icon library for AI coding tools
 - **[Magic Patterns](https://www.magicpatterns.com/docs/documentation/features/mcp-server/overview)** - Bring Magic Patterns designs into AI coding tools ([Claude](https://claude.com/marketplace/connectors/magic-patterns))
+- **[Monotype](https://github.com/Monotype/fonts-mcp)** - Browse and license fonts from Monotype
+- **[SketchUp](https://help.sketchup.com/en/sketchup-claude-connector)** - Create and edit 3D models in SketchUp ([Claude](https://claude.com/marketplace/connectors/sketchup))
 
 </details>
 
@@ -373,6 +417,10 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Viator](https://docs.viator.com/partner-api/mcp/)** - Search tours, activities and experience details ([Claude](https://claude.com/marketplace/connectors/viator))
 - **[Home Assistant](https://www.home-assistant.io/integrations/mcp_server/)** - Expose smart home entities to MCP clients
 - **[Audible](https://claude.com/marketplace/connectors/audible)** - Audiobook recommendations by genre, mood and topic
+- **[AllTrails](https://support.alltrails.com/hc/en-us/articles/47343827423764-AllTrails-integrations-with-AI-services)** - Find trails, routes and conditions on AllTrails ([Claude](https://claude.com/marketplace/connectors/alltrails))
+- **[Ticketmaster](https://developer.ticketmaster.com/support/using-the-ticketmaster-partner-mcp/)** - Discover events and tickets on Ticketmaster ([Claude](https://claude.com/marketplace/connectors/ticketmaster))
+- **[Glovo](https://glovoapp.com/docs/en/legal/mcp/)** - Browse stores and order delivery with Glovo ([Claude](https://claude.com/marketplace/connectors/glovo))
+- **[Fresha](https://www.fresha.com/help-center/knowledge-base/knowledge-base-category/102129-using-fresha-with-claude)** - Book beauty and wellness appointments with Fresha
 
 </details>
 
@@ -404,6 +452,46 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Shopify](https://shopify.dev/docs/apps/build/devmcp)** - Shopify docs, API schema, and store tooling for AI ([Claude](https://claude.com/marketplace/connectors/shopify))
 - **[WordPress](https://github.com/WordPress/mcp-adapter)** - Expose WordPress abilities as MCP tools
 - **[SendPulse](https://sendpulse.com/features/mcp)** - Official MCP server for SendPulse multichannel marketing automation platform
+- **[TikTok for Business](https://business-api.tiktok.com/portal/docs/how-to-connect-to-tiktok-for-business-mcp-server/v1.3)** - Manage TikTok ad campaigns, audiences and reports ([Claude](https://claude.com/marketplace/connectors/tiktok-for-business))
+- **[Salesforce](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/headless-360-mcp.html)** - Salesforce CRM data and actions via hosted MCP servers
+- **[Brevo](https://help.brevo.com/hc/en-us/articles/35030032898194-Brevo-connector-for-Claude-Use-your-Brevo-data-and-campaigns-in-Claude)** - Contacts, campaigns and transactional email in Brevo ([Claude](https://claude.com/marketplace/connectors/brevo))
+- **[Constant Contact](https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/55227-How-to-install-the-Constant-Contact-Claude-connector)** - Email marketing contacts and campaigns in Constant Contact ([Claude](https://claude.com/marketplace/connectors/constant-contact))
+- **[Buffer](https://developers.buffer.com/guides/integrations/claude)** - Schedule and manage social posts with Buffer
+- **[beehiiv](https://developers.beehiiv.com/)** - Newsletters, posts and subscribers in beehiiv ([Claude](https://claude.com/marketplace/connectors/beehiiv))
+- **[Moz](https://moz.com/api/docs/guides/mcp-servers)** - SEO keyword, link and site metrics from Moz
+- **[G2](https://documentation.g2.com/docs/g2-mcp-server)** - Software reviews, categories and buyer intent from G2 ([Claude](https://claude.com/marketplace/connectors/g2))
+- **[Systeme.io](https://help.systeme.io/category/11216-model-context-protocol-mcp)** - Funnels, contacts, emails and courses in Systeme.io
+- **[AWeber](https://docs.aweber.com/integrations/integrations/aweber-mcp-integration-ai-powered-email-marketing-management)** - Email lists, subscribers and campaigns in AWeber
+- **[Jasper](https://developers.jasper.ai/docs/jasper-mcp-server)** - Generate on-brand marketing content with Jasper ([Claude](https://claude.com/marketplace/connectors/jasper))
+- **[Omnisend](https://api-docs.omnisend.com/reference/mcp-server-v2)** - Ecommerce email and SMS marketing in Omnisend
+- **[Meltwater](https://claude.com/marketplace/connectors/meltwater)** - Media monitoring and social listening from Meltwater
+- **[SE Ranking](https://seranking.com/api/integrations/mcp/)** - SEO rankings, keywords and backlinks from SE Ranking
+- **[Livestorm](https://developers.livestorm.co/docs/model-context-protocol-mcp)** - Webinars, events and registrants in Livestorm ([Claude](https://claude.com/marketplace/connectors/livestorm))
+- **[Rebrandly](https://developers.rebrandly.com/docs/mcp-tools-reference)** - Create and track branded short links with Rebrandly
+- **[ZoomInfo](https://docs.zoominfo.com/docs/connect-to-zoominfo-mcp)** - B2B company and contact data from ZoomInfo ([Claude](https://claude.com/marketplace/connectors/zoominfo))
+- **[Ezoic](https://github.com/ezoic/ezoic-setup-mcp)** - Set up and configure Ezoic ad monetization
+- **[Unbounce](https://unbounce.github.io/agent-plugins/)** - Build and optimize Unbounce landing pages
+- **[Similarweb](https://docs.similarweb.com/api-v5/mcp/mcp-setup)** - Website traffic and digital market data from Similarweb ([Claude](https://claude.com/marketplace/connectors/similarweb))
+- **[Comscore](https://mcp.comscore.com/)** - Audience measurement and media analytics from Comscore
+- **[Typeform](https://www.typeform.com/developers/mcp/)** - Create forms and read responses in Typeform
+- **[SurveyMonkey](https://claude.com/marketplace/connectors/surveymonkey)** - Create surveys and analyze responses in SurveyMonkey
+- **[Cognito Forms](https://www.cognitoforms.com/support/1038/data-integration/mcp-connector)** - Forms, entries and workflows in Cognito Forms ([Claude](https://claude.com/marketplace/connectors/cognito-forms))
+- **[iubenda](https://www.iubenda.com/en/help/222393-how-to-connect-iubenda-to-claude-and-chatgpt/)** - Privacy policies, cookie consent and compliance with iubenda ([Claude](https://claude.com/marketplace/connectors/iubenda))
+- **[IndiaMART](https://imgpt.indiamart.com/docs)** - Search suppliers and products on IndiaMART B2B marketplace
+- **[AfterShip](https://www.aftership.com/docs/post-purchase-mcp)** - Shipment tracking and post-purchase data from AfterShip
+- **[Loop Returns](https://docs.loopreturns.com/mcp/overview)** - Manage ecommerce returns and exchanges with Loop
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">HR and Recruiting</h3></summary>
+
+- **[Indeed](https://docs.indeed.com/mcp)** - Search jobs and manage hiring on Indeed ([Claude](https://claude.com/marketplace/connectors/indeed))
+- **[Upwork](https://www.upwork.com/ai/mcp)** - Find freelancers and manage work on Upwork ([Claude](https://claude.com/marketplace/connectors/upwork))
+- **[Workable](https://workable.readme.io/reference/workable-mcp-server)** - Jobs, candidates and hiring pipeline in Workable ([Claude](https://claude.com/marketplace/connectors/workable))
+- **[Teamtailor](https://support.teamtailor.com/en/articles/15842409-connect-an-ai-assistant-to-teamtailor-using-mcp)** - Candidates, jobs and recruiting in Teamtailor ([Claude](https://claude.com/marketplace/connectors/teamtailor))
+- **[Ashby](https://docs.ashbyhq.com/mcp)** - Ashby ATS jobs, candidates and interview data ([Claude](https://claude.com/marketplace/connectors/ashby))
+- **[ZipRecruiter](https://api.ziprecruiter.com/mcp/docs)** - Search jobs and candidates on ZipRecruiter ([Claude](https://claude.com/marketplace/connectors/ziprecruiter))
 
 </details>
 
