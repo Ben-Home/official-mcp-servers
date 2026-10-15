@@ -12,7 +12,7 @@
 **No unofficial forks, no abandoned projects, just servers you can trust.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers Count](https://img.shields.io/badge/MCP%20Servers-286-blue?style=flat-square)
+![Servers Count](https://img.shields.io/badge/MCP%20Servers-301-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/official-mcp-servers?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -68,6 +68,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - Azure DevOps repos, work items and pipelines
 - **[Radar](https://github.com/skyhook-io/radar)** - Inspect, troubleshoot and operate Kubernetes clusters
 - **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
+- **[Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent)** - Self-healing CI runners your coding agents can run, read, fix
 
 </details>
 
@@ -162,6 +163,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - Control and inspect Chrome with DevTools
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Browser automation with Playwright
 - **[Scrapfly](https://github.com/scrapfly/scrapfly-mcp)** - Web scraping and data extraction via Scrapfly
+- **[CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents)** - Screenshot any web page as image, PDF or video
 
 </details>
 
@@ -214,6 +216,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server)** - Expose GraphQL APIs as MCP tools
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** - Bestax docs for Bulma v1 React components, offline
 - **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
+- **[Runx](https://runx.ai/docs/mcp)** - Discover skills remotely; execute governed skills locally with receipts
 
 </details>
 
@@ -340,6 +343,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Vizro](https://github.com/mckinsey/vizro/tree/main/vizro-mcp)** - Build validated charts and dashboards with Vizro
 - **[Tableau](https://github.com/tableau/tableau-mcp)** - Let agents explore and query Tableau data
 - **[Docling](https://github.com/docling-project/docling-mcp)** - Document conversion and processing with Docling
+- **[VideoGen](https://github.com/video-gen/videogen-mcp)** - Create, edit and export videos and media. ([Setup](https://videogen.io/videogen-mcp))
 
 </details>
 
@@ -381,6 +385,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Viator](https://docs.viator.com/partner-api/mcp/)** - Search tours, activities and experience details ([Claude](https://claude.com/marketplace/connectors/viator))
 - **[Home Assistant](https://www.home-assistant.io/integrations/mcp_server/)** - Expose smart home entities to MCP clients
 - **[Audible](https://claude.com/marketplace/connectors/audible)** - Audiobook recommendations by genre, mood and topic
+- **[Golf Intelligence](https://github.com/golf-data/golf)** - Proprietary golf course data, scorecards, GPS and 3D greens
 
 </details>
 
@@ -415,6 +420,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[SendPulse](https://sendpulse.com/features/mcp)** - Official MCP server for SendPulse multichannel marketing automation platform
 - **[linglistack/linkednav-mcp](https://github.com/linglistack/linkednav-mcp)** - Run LinkedIn outreach in LinkedNav: find leads, launch campaigns, reply
 - **[Rhino Rank](https://app.rhinorank.io/mcp/setup)** - Quote, order and manage link building and press releases
+- **[Nitrosend](https://docs.nitrosend.com/mcp)** - Manage campaigns, flows, audiences and transactional email via MCP
 
 </details>
 
