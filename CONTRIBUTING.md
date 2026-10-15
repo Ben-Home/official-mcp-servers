@@ -21,6 +21,7 @@ If the server has no public repository, link to the vendor's official MCP docume
 ### Where to Add
 
 - Add to the end of the matching category in `README.md`.
+- If the product or company behind the server is not yet widely known (small team, early-stage product, limited adoption), add it to the end of the **Emerging and Independent** category instead of a topical one. Maintainers may move entries between categories during review.
 - If no existing category fits, open an issue to propose a new one.
 
 ### Requirements

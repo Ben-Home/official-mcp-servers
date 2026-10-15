@@ -12,7 +12,7 @@
 **No unofficial forks, no abandoned projects, just servers you can trust.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers Count](https://img.shields.io/badge/MCP%20Servers-301-blue?style=flat-square)
+![Servers Count](https://img.shields.io/badge/MCP%20Servers-307-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/official-mcp-servers?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -32,7 +32,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 |---|---|---|---|
 | [Search](#search-and-research) | [Developer Tools](#developer-tools) | [Security](#security-and-code-quality) | [Productivity](#productivity-and-project-management) |
 | [Finance](#finance-and-payments) | [Messaging](#communication-and-messaging) | [AI and Media](#ai-media-and-data-visualization) | [Design](#design-and-collaboration) |
-| [Travel](#travel-and-lifestyle) | [Marketing](#web-marketing-and-product) |  |  |
+| [Travel](#travel-and-lifestyle) | [Marketing](#web-marketing-and-product) | [Emerging](#emerging-and-independent) |  |
 
 <details open>
 <summary><h3 style="display:inline">Cloud and DevOps</h3></summary>
@@ -67,8 +67,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Alibaba Cloud Ops](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)** - Operate Alibaba Cloud resources like ECS and monitoring
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - Azure DevOps repos, work items and pipelines
 - **[Radar](https://github.com/skyhook-io/radar)** - Inspect, troubleshoot and operate Kubernetes clusters
-- **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
-- **[Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent)** - Self-healing CI runners your coding agents can run, read, fix
 
 </details>
 
@@ -139,7 +137,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[VictoriaMetrics](https://github.com/VictoriaMetrics/mcp-victoriametrics)** - Query VictoriaMetrics instances and read its docs
 - **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - LLM observability and evaluation with Phoenix
 - **[Google Analytics](https://github.com/googleanalytics/google-analytics-mcp)** - Query Google Analytics reports and properties
-- **[SolidPing](https://github.com/fclairamb/solidping)** - Uptime checks, incidents and status pages, self-hostable
 
 </details>
 
@@ -163,7 +160,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - Control and inspect Chrome with DevTools
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Browser automation with Playwright
 - **[Scrapfly](https://github.com/scrapfly/scrapfly-mcp)** - Web scraping and data extraction via Scrapfly
-- **[CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents)** - Screenshot any web page as image, PDF or video
 
 </details>
 
@@ -179,7 +175,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Parallel Search](https://github.com/parallel-web/search-mcp)** - Web search for AI agents via Parallel ([Claude](https://claude.com/marketplace/connectors/parallel-search))
 - **[Brave Search](https://github.com/brave/brave-search-mcp-server)** - Web, local and image search with Brave
 - **[Jina AI](https://github.com/jina-ai/MCP)** - Search, read and embed the web with Jina AI
-- **[Desearch](https://github.com/Desearch-ai/mcp-desearch)** - AI search, X search and web search for AI agents
 - **[You.com](https://github.com/youdotcom-oss/mcp)** - Web search, page contents and research with You.com
 
 </details>
@@ -214,9 +209,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[MCP Reference Servers](https://github.com/modelcontextprotocol/servers)** - Official reference servers: filesystem, fetch, git, memory and more
 - **[Microsoft Learn](https://github.com/MicrosoftDocs/mcp)** - Search official Microsoft Learn documentation
 - **[Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server)** - Expose GraphQL APIs as MCP tools
-- **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** - Bestax docs for Bulma v1 React components, offline
-- **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
-- **[Runx](https://runx.ai/docs/mcp)** - Discover skills remotely; execute governed skills locally with receipts
 
 </details>
 
@@ -293,9 +285,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Moody's](https://www.moodys.com/web/en/us/genai/model-context-protocol.html)** - Credit ratings and research via Moody's GenAI data ([Claude](https://claude.com/marketplace/connectors/moodys-analytics))
 - **[Carta](https://claude.com/marketplace/connectors/carta)** - Cap table, investor, and fund data from Carta
 - **[Alpaca](https://github.com/alpacahq/alpaca-mcp-server)** - Trade stocks, ETFs and crypto through Alpaca
-- **[Equibles](https://equibles.com/mcp)** - SEC fundamentals, filings, earnings-call transcripts, 13F and insider trades
-- **[Invompt](https://github.com/Invompt/invompt-mcp)** - Create and review invoices from an AI assistant
-- **[Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)** - Indian NSE and BSE stock data, screener, FII/DII flows
 
 </details>
 
@@ -343,7 +332,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Vizro](https://github.com/mckinsey/vizro/tree/main/vizro-mcp)** - Build validated charts and dashboards with Vizro
 - **[Tableau](https://github.com/tableau/tableau-mcp)** - Let agents explore and query Tableau data
 - **[Docling](https://github.com/docling-project/docling-mcp)** - Document conversion and processing with Docling
-- **[VideoGen](https://github.com/video-gen/videogen-mcp)** - Create, edit and export videos and media. ([Setup](https://videogen.io/videogen-mcp))
 
 </details>
 
@@ -385,7 +373,6 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Viator](https://docs.viator.com/partner-api/mcp/)** - Search tours, activities and experience details ([Claude](https://claude.com/marketplace/connectors/viator))
 - **[Home Assistant](https://www.home-assistant.io/integrations/mcp_server/)** - Expose smart home entities to MCP clients
 - **[Audible](https://claude.com/marketplace/connectors/audible)** - Audiobook recommendations by genre, mood and topic
-- **[Golf Intelligence](https://github.com/golf-data/golf)** - Proprietary golf course data, scorecards, GPS and 3D greens
 
 </details>
 
@@ -416,12 +403,31 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Supermetrics](https://github.com/supermetrics-public/supermetrics-mcp)** - Query live marketing data from 170+ platforms ([Claude](https://claude.com/marketplace/connectors/supermetrics))
 - **[Shopify](https://shopify.dev/docs/apps/build/devmcp)** - Shopify docs, API schema, and store tooling for AI ([Claude](https://claude.com/marketplace/connectors/shopify))
 - **[WordPress](https://github.com/WordPress/mcp-adapter)** - Expose WordPress abilities as MCP tools
-- **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)** - Schedule, cross-post and analyze social posts on 15 platforms
 - **[SendPulse](https://sendpulse.com/features/mcp)** - Official MCP server for SendPulse multichannel marketing automation platform
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Emerging and Independent</h3></summary>
+
+- **[Easypanel](https://easypanel.io/docs/mcp)** - Manage self-hosted applications and databases via Easypanel’s built-in MCP
+- **[Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent)** - Self-healing CI runners your coding agents can run, read, fix
+- **[SolidPing](https://github.com/fclairamb/solidping)** - Uptime checks, incidents and status pages, self-hostable
+- **[Desearch](https://github.com/Desearch-ai/mcp-desearch)** - AI search, X search and web search for AI agents
+- **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** - Bestax docs for Bulma v1 React components, offline
+- **[Equibles](https://equibles.com/mcp)** - SEC fundamentals, filings, earnings-call transcripts, 13F and insider trades
+- **[Invompt](https://github.com/Invompt/invompt-mcp)** - Create and review invoices from an AI assistant
+- **[Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)** - Indian NSE and BSE stock data, screener, FII/DII flows
+- **[VideoGen](https://github.com/video-gen/videogen-mcp)** - Create, edit and export videos and media. ([Setup](https://videogen.io/videogen-mcp))
+- **[Golf Intelligence](https://github.com/golf-data/golf)** - Proprietary golf course data, scorecards, GPS and 3D greens
+- **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)** - Schedule, cross-post and analyze social posts on 15 platforms
 - **[linglistack/linkednav-mcp](https://github.com/linglistack/linkednav-mcp)** - Run LinkedIn outreach in LinkedNav: find leads, launch campaigns, reply
 - **[Rhino Rank](https://app.rhinorank.io/mcp/setup)** - Quote, order and manage link building and press releases
-- **[NotFair](https://github.com/nowork-studio/notfair-plugin)** - Hosted MCP for ad platforms, GA4, Search Console, and WordPress
+- **[CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents)** - Screenshot any web page as image, PDF or video
+- **[Runx](https://runx.ai/docs/mcp)** - Discover skills remotely; execute governed skills locally with receipts
 - **[Nitrosend](https://docs.nitrosend.com/mcp)** - Manage campaigns, flows, audiences and transactional email via MCP
+- **[NotFair](https://github.com/nowork-studio/notfair-plugin)** - Hosted MCP for ad platforms, GA4, Search Console, and WordPress
+- **[ContextStream](https://github.com/contextstream/mcp-server)** - Shared project context and code search for AI coding agents
 
 </details>
 
