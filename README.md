@@ -522,6 +522,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Aident Loadout](https://docs.aident.ai/loadout/mcp)** - Hosted MCP giving agents connected apps, Skills, Vault and audit
 - **[Weave](https://docs.weaveos.com/integrations/mcp)** - Engineering metrics, pull requests and AI coding tool usage
 - **[Dot (getdot.ai)](https://docs.getdot.ai/developers/mcp)** - AI data analyst: answers, charts and SQL from your warehouse
+- **[Serply](https://serply.io/mcp)** - Google web, news, Scholar and jobs search, plus page scraping
 
 </details>
 
