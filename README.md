@@ -523,6 +523,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Weave](https://docs.weaveos.com/integrations/mcp)** - Engineering metrics, pull requests and AI coding tool usage
 - **[Dot (getdot.ai)](https://docs.getdot.ai/developers/mcp)** - AI data analyst: answers, charts and SQL from your warehouse
 - **[Serply](https://serply.io/mcp)** - Google web, news, Scholar and jobs search, plus page scraping
+- **[Ausca](https://ausca.com/docs/mcp/)** - Discover metered agent services, prepare calls, verify receipts
 
 </details>
 
