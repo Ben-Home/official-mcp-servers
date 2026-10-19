@@ -524,6 +524,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Dot (getdot.ai)](https://docs.getdot.ai/developers/mcp)** - AI data analyst: answers, charts and SQL from your warehouse
 - **[Serply](https://serply.io/mcp)** - Google web, news, Scholar and jobs search, plus page scraping
 - **[Ausca](https://ausca.com/docs/mcp/)** - Discover metered agent services, prepare calls, verify receipts
+- **[HutchDB](https://github.com/ExpeditedProjects/hutchdb)** - Shared database for teams and AI agents, over MCP
 
 </details>
 
