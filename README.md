@@ -528,6 +528,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Mysocial](https://github.com/mysocialio/mysocial-intelligence)** - Social media intelligence from connected content history and performance.
 - **[PlaceCall](https://github.com/voygr-tech/placecall)** - AI agent places real phone calls to US businesses
 - **[MemorySync](https://memorysync.io/mcp)** - Search and store durable facts, preferences and decisions across sessions
+- **[3D-Agent](https://3d-agent.com/blender-mcp)** - Blender modeling, animation and rendering agent as one MCP tool
 
 </details>
 
