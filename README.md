@@ -535,6 +535,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[agent-qa](https://github.com/vostride/agent-qa)** - Natural-language web/mobile QA with advanced memidex memory and self-improvement
 
 - **[Docsy](https://docsy.remcp.site/docs)** - Read-only versioned developer documentation with original source links
+- **[UI Verify](https://uiverify.ai/docs/visual-testing-mcp-server)** - Visual regression diffs and baseline review for coding agents
 </details>
 
 ## 🔒 Security Notice
